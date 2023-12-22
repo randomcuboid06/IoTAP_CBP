@@ -1,0 +1,251 @@
+
+Date: 21/12/2023
+Time: 13:40
+Phone Number: +919704728494
+Image: C:/Users/admin/Desktop/VNR/IOT AP CBP\WIN_20220827_11_31_43_Pro.jpg
+Caption: 
+--------------------
+Date: 21/12/2023
+Time: 13:44
+Phone Number: +919704728494
+Image: C:/Users/admin/Desktop/VNR/IOT AP CBP\WIN_20220827_11_31_43_Pro.jpg
+Caption: 
+--------------------
+Date: 21/12/2023
+Time: 13:48
+Phone Number: +919704728494
+Message: Hello!
+--------------------
+Date: 21/12/2023
+Time: 13:50
+Phone Number: +919704728494
+Message: C:\Users\admin\Desktop\VNR\IOT AP CBP\WIN_20220827_11_31_43_Pro.jpg
+--------------------
+Date: 21/12/2023
+Time: 13:57
+Phone Number: +919704728494
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\WIN_20220827_11_31_43_Pro.jpg
+Caption: test
+--------------------
+Date: 21/12/2023
+Time: 14:0
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\download.jpeg
+Caption: This image was sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 14:2
+Phone Number: +919704728494
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\WIN_20220827_11_31_43_Pro.jpg
+Caption: test2
+--------------------
+Date: 21/12/2023
+Time: 14:5
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\download.jpeg
+Caption: test2
+--------------------
+Date: 21/12/2023
+Time: 14:5
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\download.jpeg
+Caption: test2
+--------------------
+Date: 21/12/2023
+Time: 14:6
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\download.jpeg
+Caption: test2
+--------------------
+Date: 21/12/2023
+Time: 14:7
+Phone Number: +919704728494
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\download.jpeg
+Caption: test2
+--------------------
+Date: 21/12/2023
+Time: 14:9
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\download.jpeg
+Caption: test
+--------------------
+Date: 21/12/2023
+Time: 14:11
+Phone Number: +919014669893
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\download.jpeg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 14:12
+Phone Number: +919014669893
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\download.jpeg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 14:13
+Phone Number: +919014669893
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\download.jpeg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 14:15
+Phone Number: +919704728494
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\download.jpeg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 14:21
+Phone Number: +919704728494
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\download.jpeg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 14:27
+Phone Number: +919704728494
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 14:29
+Phone Number: +919704728494
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 15:24
+Phone Number: +919704728494
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 18:52
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 18:54
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 18:55
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 18:58
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 19:0
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 19:3
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 19:5
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 19:6
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 19:7
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 22:38
+Phone Number: +919704728494
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 22:39
+Phone Number: +919704728494
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 22:41
+Phone Number: +919014669893
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 21/12/2023
+Time: 23:10
+Phone Number: +919704728494
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 22/12/2023
+Time: 8:24
+Phone Number: +919704728494
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 22/12/2023
+Time: 8:28
+Phone Number: +919704728494
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 22/12/2023
+Time: 9:40
+Phone Number: +919704728494
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 22/12/2023
+Time: 9:42
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 22/12/2023
+Time: 9:43
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 22/12/2023
+Time: 9:44
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 22/12/2023
+Time: 9:46
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 22/12/2023
+Time: 9:47
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
+Date: 22/12/2023
+Time: 9:49
+Phone Number: +918465956672
+Image: C:\Users\admin\Desktop\VNR\IOT AP CBP\test.jpg
+Caption: This image was automatically sent by a python script
+--------------------
