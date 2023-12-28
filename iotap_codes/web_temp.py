@@ -10,5 +10,5 @@ def home():
     temp = sensor.get_temperature()
     return 'temp: {} degree C'.format(temp)
     # don't forget to reload the page to get new readings
-
-app.run(debug = True)
+if __name__ == '__main__':
+    app.run(debug = True)
