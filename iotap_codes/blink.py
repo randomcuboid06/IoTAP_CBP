@@ -1,3 +1,5 @@
+# connect led postitive to GPIO 26 and led negative to Ground
+
 import RPi.GPIO as GPIO
 from time import sleep
 
